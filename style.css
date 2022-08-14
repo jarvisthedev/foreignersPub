@@ -1,0 +1,29 @@
+.digits,
+.sign {
+  width: 4rem;
+  height: 4rem;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.all {
+  position: absolute;
+  left: 40%;
+  top: 15%;
+}
+
+.ans,
+.ans1 {
+  width: 8.01rem;
+  height: 2rem;
+  background-color: rgb(240, 233, 233);
+  border: none;
+  text-align: left;
+}
+.equal {
+  width: 8.25rem;
+}
+.darkmode {
+  background-color: rgb(49, 47, 47);
+  color: rgb(253, 245, 245);
+}
