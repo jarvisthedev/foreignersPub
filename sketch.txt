@@ -19,3 +19,28 @@ Why join the website
 3. Map of location you are visiting,,, recreational facility, time and dates, events
 4. Make plans in one location, schedule, reminders, plan --> trip, meet someone
 5. Get jobs updates from the country's ambassador
+
+//////
+
+More consise project
+Considering to bild a social media
+The whole idea is to have locations, into cosideration in the social aspesct
+Kind of an instagram clone/ similar to
+
+
+Planning to do different, 
+Add a tag along the posts
+Tags, can be at least 3 say, location, event(sport), food, service, language learning
+
+Descriptive profile 
+
+i. review a location
+ii. Rate a location/service
+
+
+*** How to do it
+Login log out
+POst, delete, 
+comment edit
+Follow/ Unfollow
+

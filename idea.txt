@@ -1,0 +1,11 @@
+The whole idea is to have a social website, where random people from the same country(origin) can meet/socialize/interact in a different random country
+
+Example, 5 random people from Germany or South Africa finding themselves in France, Canada or USA becaouse of different reasons, say holiday, education(Students), work, etc
+
+What problem im trying to solve, 
+Lonelyness/stigmatization when someone travels off country, They have no idea of the visited location, language, have no friends, unfamiliar foods, music
+
+In this website, we have people in a new country, they share the same country of origin. 
+This means they share the samesomeone
+
+Someone can know where, they share the same music taste, food, Language hence easy adaptability to the new environment with ease.
