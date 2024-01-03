@@ -30,7 +30,7 @@ Kind of an instagram clone/ similar to
 
 Planning to do different, 
 Add a tag along the posts
-Tags, can be at least 3 say, location, event(sport), food, service
+Tags, can be at least 3 say, location, event(sport), food, service, language learning
 
 Descriptive profile 
 
