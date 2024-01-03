@@ -38,9 +38,16 @@ i. review a location
 ii. Rate a location/service
 
 
-*** How to do it
-Login log out
-POst, delete, 
-comment edit
-Follow/ Unfollow
+What can be done in the website
+1. Ability to register, Login & Logout
+2. Ability to post a post (Media<Pic, audio, video>, text, tag)
+3. Ability to comment on a post
+4. Search using tags, locations, usernames, service
+5. Ability to follow/ Unfollow, block
+6. Delete & Edit a post/ comment
+7. Review via a post about a location/service
 
+Maybe
+8. Creating/ Editing a group(language, native people) 
+9. Add/ remove people to a group
+10. Join a group via link invite
