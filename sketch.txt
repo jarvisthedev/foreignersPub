@@ -1,14 +1,14 @@
 Foreigners pub - social website
 
-Who is the website for 
-1. Students
-2. Sports enthusiasts (football events)
-3. Professionals for work purposes
-4. Business individuals
-5. Recreational/holiday seekers
-6. Language learners
-7. Networking professionals
-8. Tourists
+The website targets to help:
+1.	Students
+2.	Health seekers
+3.	Nomadic workers
+4.	International forums attendants
+5.	Tourists
+6.	Holiday/Recreational seekers
+7.	International Business meetups
+8.	Sports enthusiasts
 
 
 Descriptive profile 
@@ -22,17 +22,6 @@ Why join the website
 
 //////
 
-More consise project
-Considering to bild a social media
-The whole idea is to have locations, into cosideration in the social aspesct
-Kind of an instagram clone/ similar to
-
-
-Planning to do different, 
+Planning to do different from other social websites, 
 Add a tag along the posts
 Tags, can be at least 3 say, location, event(sport), food, service, language learning
-
-
-
-i. review a location
-ii. Rate a location/service
