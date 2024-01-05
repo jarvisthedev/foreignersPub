@@ -16,7 +16,8 @@ Key way of making it social for foreingers(Where the concept lies)
 2. Pictures(must be available)
 3. Text(will be there)
 
-
+//////////////
+It's justa a normal social media with a twist in adding tags/rating pictures and text
 //////////////
 
 How to achieve this
@@ -27,7 +28,7 @@ How to achieve this
 5. Ability to follow/ Unfollow, block
 6. Delete & Edit a post/ comment
 7. Review via a post about a location/service
-8. Messagin someone
+8. DM(Messaging)
 
 Maybe
 9. Creating/ Editing a group(languages groups, native people - SA group, ) 

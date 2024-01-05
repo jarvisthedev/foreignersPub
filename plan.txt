@@ -4,3 +4,5 @@
 4. You can review a location/ culture/someone/ shops(with or without your culture)
 5. Rate a hotel/service -- For people to look out for when they will be searching around
 6. Search using tags, (sports, education, transport, holiday, meal, language)
+
+1. Descriptive profile
