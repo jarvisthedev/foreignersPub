@@ -1,4 +1,4 @@
-Foreigners/ Immigrants pub - social website
+Foreigners pub - social website
 
 Who is the website for 
 1. Students
@@ -32,8 +32,7 @@ Planning to do different,
 Add a tag along the posts
 Tags, can be at least 3 say, location, event(sport), food, service, language learning
 
-Descriptive profile 
+
 
 i. review a location
 ii. Rate a location/service
-
