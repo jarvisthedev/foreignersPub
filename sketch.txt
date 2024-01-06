@@ -13,40 +13,81 @@ The website targets to help:
 
 Descriptive profile 
 
-Why join the website
-1. Learn a language
-2. Socialize with a peers.  Dm, groups. (imgs, text, video), Follow 
-3. Map of location you are visiting,,, recreational facility, time and dates, events
-4. Make plans in one location, schedule, reminders, plan --> trip, meet someone
-5. Get jobs updates from the country's ambassador
 
+WHY JOIN THE WEBSITE
+Reasons to join us:
+   1.	Learn a language (Current residence language)
+   2.	Connect with a peers. You will post, comment, Follow, DM, join groups
+   3.	Current residence map rendered with reviewed of locations & services.
+   4.	Make plans(Notes) in one location; schedules/ reminders/ plans, meet someone
+   5.	Jobs updates from other peers
+
+
+ADDED DETAILS
 //////
 
 Planning to do different from other social websites, 
 Add a tag along the posts
 Tags, can be at least 3 say, location, event(sport), food, service, language learning
 
+
 1. Registration
-//////////
+   1. Sign in via username and password or via email
+   2. Current Residence inclusive
+   3. What you do student, career
+   3. Native country
+   4. Language
+   5. Age
 
 
-.2 Groups
-///////////
+2. Groups
+   a. Join/Unjoin a group via link
+   b. View all members of a group
+   b. View all previous conversations
+   c. Comment, edit and delete in the group with text, tags and photos
 
 
 3. Review
-////////
-Review will be having start, duration, name, timestamps, location pinned
+   Review will be having start, duration, name, timestamps, location pinned
 
-4. Connect with a peers
-     a. Post
-     b. DMs
-     c. DMs
-     d. DMs
+4. Connection with peers
+     a. POST
+        1. Must have a picture
+        2. Must contain atleast 3 tags
+        3. Must have Text
+        4. Can be edited and deleted
+        5. Can view all comments related to the post
+        6. Can be location photo was taken/posted i.e where the event took place
+
+     b. LIKE a post
+        1. Must be on a related post
+        2. One can like/unlike a post
+
+     c. COMMENT on a post
+        1. Must be on a related post
+        2. Can be commented on too
+        2. Can contain pictures, audio and video
+        3. Must have up and downvotes(Weather it's useful comment of not)
+        4. Can be edited and deleted
+
+     d. FOLLOW
+        1. Ability to follow/unfollow someone
+        2. Ability to block/unblock a follower
+        3. View all followers of an account
+
+     e. DMs
+        1. Only DM someone you follow
+        2. Text, video and audio can be sent
+        3. Send, Edit, delete a message
+
+5. Profile
+   a. View all followers
+   b. View all groups they are in
+   c. Profile picture
+   d. Residence
 
 
-5. Notes
-/////////
-1. Add tags of the main idea i.e meet someone or a group, plan a trip/ learning a laguage/ Take a walk
-2. Add time and location
-3. Add duration it should Take
+6. Notes
+   1. Add tags of the main idea i.e meet someone or a group, plan a trip/ learning a language/ Take a walk
+   2. Add time and location
+   3. Add duration it should Take
