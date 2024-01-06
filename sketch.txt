@@ -25,3 +25,28 @@ Why join the website
 Planning to do different from other social websites, 
 Add a tag along the posts
 Tags, can be at least 3 say, location, event(sport), food, service, language learning
+
+1. Registration
+//////////
+
+
+.2 Groups
+///////////
+
+
+3. Review
+////////
+Review will be having start, duration, name, timestamps, location pinned
+
+4. Connect with a peers
+     a. Post
+     b. DMs
+     c. DMs
+     d. DMs
+
+
+5. Notes
+/////////
+1. Add tags of the main idea i.e meet someone or a group, plan a trip/ learning a laguage/ Take a walk
+2. Add time and location
+3. Add duration it should Take
