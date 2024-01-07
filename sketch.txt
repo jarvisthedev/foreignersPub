@@ -32,12 +32,13 @@ Tags, can be at least 3 say, location, event(sport), food, service, language lea
 
 
 1. Registration
-   1. Sign in via username and password or via email
-   2. Current Residence inclusive
-   3. What you do student, career
-   3. Native country
-   4. Language
-   5. Age
+   a. Sign in via username and password or via email
+   b. Current Residence inclusive
+   c. What you do student, career
+   d. Native country
+   e. Language
+   f. Age
+   g. Relevant tags that should be used as preferences
 
 
 2. Groups
@@ -88,6 +89,15 @@ Tags, can be at least 3 say, location, event(sport), food, service, language lea
 
 
 6. Notes
-   1. Add tags of the main idea i.e meet someone or a group, plan a trip/ learning a language/ Take a walk
+   1.	Add tags of the main idea i.e meet some people, plan a trip/ learn language/ Take a walk
    2. Add time and location
    3. Add duration it should Take
+
+
+7. Search functionality
+   1. One can search:
+      a. Using names/username
+      b. Using location
+      c. Using service
+      d. For Groups/communities
+      e. Using tags( sports, education, Language, meals,)

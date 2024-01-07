@@ -17,7 +17,7 @@ Key way of making it social for foreingers(Where the concept lies)
 3. Text(will be there)
 
 //////////////
-It's justa a normal social media with a twist in adding tags/rating pictures and text
+It's just a normal social media with a twist in adding tags/rating pictures and text
 //////////////
 
 How to achieve this
