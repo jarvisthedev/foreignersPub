@@ -22,7 +22,7 @@ It's just a normal social media with a twist in adding tags/rating pictures and 
 
 How to achieve this
 1. Ability to register, Login & Logout
-2. Ability to post a post (Media<Pic, audio, video>, text, tag)
+2. Ability to post a post (Media:Pic, audio, video>, text, tag)
 3. Ability to comment on a post
 4. Search using tags, locations, usernames, service
 5. Ability to follow/ Unfollow, block
@@ -31,7 +31,7 @@ How to achieve this
 8. DM(Messaging)
 
 Maybe
-9. Creating/ Editing a group(languages groups, native people - SA group, ) 
+9. Creating/ Editing a group(languages groups, native people - SA group)
 10. Add/ remove people to a group
 11. Join a group via link invite
 12. Ability to call someone(audio and Video calls)
