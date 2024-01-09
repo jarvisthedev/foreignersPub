@@ -1,37 +1,26 @@
-The whole idea is to have a social website, where random people from the same country(origin) can meet/socialize/interact in a different random country
-
-Example, 5 random people from Germany or South Africa finding themselves in France, Canada or USA because of different reasons, say holiday, education(Students), work, business trip etc
+Foreigners pub is a social platform that aims to improve the social connection between foreigners sharing the same native country
 
 What problem im trying to solve, 
 Loneliness when someone travels off country, They have no idea of the visited location, language, have no friends, unfamiliar foods, music
 
-In this website, we have people in a new country, they share the same country of origin. 
-This means they share the samesomeone
+Example, 4 random people from Germany or South Africa finding themselves in France, Canada or USA because of different reasons, say holiday, health, education, work, business trip. These people could easily connect among themselves than with people in their current residence.
 
-Someone can know where, they share the same music taste, food, Language hence easy adaptability to the new environment with ease.
 
-////
+//////////////
+It's just a normal social media with a twist in adding tags, rating pictures and text
 Key way of making it social for foreingers(Where the concept lies)
 1. Tags (2-3 tags in a post)
 2. Pictures(must be available)
 3. Text(will be there)
 
-//////////////
-It's just a normal social media with a twist in adding tags/rating pictures and text
-//////////////
 
-How to achieve this
-1. Ability to register, Login & Logout
-2. Ability to post a post (Media:Pic, audio, video>, text, tag)
-3. Ability to comment on a post
-4. Search using tags, locations, usernames, service
-5. Ability to follow/ Unfollow, block
-6. Delete & Edit a post/ comment
-7. Review via a post about a location/service
-8. DM(Messaging)
+//////////////
+1. Registration will include, duration, reason, where, country of origin, where you wanna visit/where you are, Languages
+2. Posts will always include pictures and Tags(2-3)
+3. Location can be ON for easy connections with people around you(Easy search)
+4. You can review a location/ culture/someone/ shops(with or without your culture)
+5. Rate a hotel/service -- For people to look out for when they will be searching around
+6. Search using tags (sports, education, transport, holiday, meal, language)
 
-Maybe
-9. Creating/ Editing a group(languages groups, native people - SA group)
-10. Add/ remove people to a group
-11. Join a group via link invite
-12. Ability to call someone(audio and Video calls)
+1. Descriptive profile
+//////////////
