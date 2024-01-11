@@ -26,7 +26,41 @@ Key way of making it social for foreingers(Where the concept lies)
 
 Models
 1. profile
-2. Posts
+    Name
+    Username
+    Email
+    Profile pic
+    Bio
+    Country_native
+    Residence
+    Tags
+    Followers
+    Following
+    Group
+
+2. Post
+    Pictures
+    Text
+    Tags
+    like_count(FK) - Like
+    Comments
+    Location
+
+3. Comment
+    post_related(FK)- Post
+    Username(FK) - User
+    image
+    Text
+    comments(FK) - Comment
+    like_count(FK) - Like
+
+4. Like
+    Post(FK) / Comment(FK) - post/ comment
+    Username(FK) - User
+    is_liked
+
+5. 
+
 3. Group
 4. Bookmarks
 5. review
@@ -35,4 +69,3 @@ Models
 8. Notification
 9. Notes
 10. Comment
-
