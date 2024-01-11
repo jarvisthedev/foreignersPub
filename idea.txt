@@ -22,5 +22,17 @@ Key way of making it social for foreingers(Where the concept lies)
 5. Rate a hotel/service -- For people to look out for when they will be searching around
 6. Search using tags (sports, education, transport, holiday, meal, language)
 
-1. Descriptive profile
 //////////////
+
+Models
+1. profile
+2. Posts
+3. Group
+4. Bookmarks
+5. review
+6. Follow
+7. DM
+8. Notification
+9. Notes
+10. Comment
+
