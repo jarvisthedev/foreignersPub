@@ -34,34 +34,43 @@ Models
     Country_native
     Residence
     Tags
-    Followers
-    Following
+    followers_count (FK) - Follower
+    following_count (FK) - Following
     Group
 
 2. Post
+    profile (FK) - Profile
     Pictures
     Text
     Tags
     like_count(FK) - Like
-    Comments
+    comment (FK) - comment
     Location
 
 3. Comment
-    post_related(FK)- Post
-    Username(FK) - User
+    profile (FK) - Profile
     image
     Text
     comments(FK) - Comment
     like_count(FK) - Like
 
 4. Like
+    profile (FK) - Profile
     Post(FK) / Comment(FK) - post/ comment
-    Username(FK) - User
     is_liked
 
-5. 
+5. Following
+    profile (FK) - Profile
 
-3. Group
+6. Follower
+    profile (FK) - Profile
+
+7. Group
+    created_by (FK) - Profile
+    name
+    group_icon
+    
+
 4. Bookmarks
 5. review
 6. Follow
