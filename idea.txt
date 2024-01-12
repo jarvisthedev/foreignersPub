@@ -25,18 +25,18 @@ Key way of making it social for foreingers(Where the concept lies)
 //////////////
 
 Models
-1. profile
+1. Profile
     Name
     Username
     Email
     Profile pic
     Bio
     Country_native
-    Residence
-    Tags
+    current_residence
+    tags(FK) - Tag
     followers_count (FK) - Follower
     following_count (FK) - Following
-    Group
+    groups (FK) - Group
 
 2. Post
     profile (FK) - Profile
@@ -69,12 +69,34 @@ Models
     created_by (FK) - Profile
     name
     group_icon
+    post (FK) - Post
+    Text
     
+8. Bookmarks
+    profile (FK) - Profile
+    post (FK) - Post
+    is_bookmarked
 
-4. Bookmarks
-5. review
-6. Follow
-7. DM
-8. Notification
-9. Notes
-10. Comment
+9. Review
+    profile (FK) - Profile
+    review_scale - (1-5)
+    service
+    text
+    location
+
+10. Notification
+    comment/post
+    new_follower
+
+11. Notes
+    profile (FK) - Profile
+    tags(FK) - Tag
+    text
+    duration
+    location
+    time
+
+12. Tag
+    Text
+
+12. DM
