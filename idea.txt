@@ -22,5 +22,81 @@ Key way of making it social for foreingers(Where the concept lies)
 5. Rate a hotel/service -- For people to look out for when they will be searching around
 6. Search using tags (sports, education, transport, holiday, meal, language)
 
-1. Descriptive profile
 //////////////
+
+Models
+1. Profile
+    Name
+    Username
+    Email
+    Profile pic
+    Bio
+    Country_native
+    current_residence
+    tags(FK) - Tag
+    followers_count (FK) - Follower
+    following_count (FK) - Following
+    groups (FK) - Group
+
+2. Post
+    profile (FK) - Profile
+    Pictures
+    Text
+    Tags
+    like_count(FK) - Like
+    comment (FK) - comment
+    Location
+
+3. Comment
+    profile (FK) - Profile
+    image
+    Text
+    comments(FK) - Comment
+    like_count(FK) - Like
+
+4. Like
+    profile (FK) - Profile
+    Post(FK) / Comment(FK) - post/ comment
+    is_liked
+
+5. Following
+    profile (FK) - Profile
+
+6. Follower
+    profile (FK) - Profile
+
+7. Group
+    created_by (FK) - Profile
+    name
+    group_icon
+    post (FK) - Post
+    Text
+    
+8. Bookmarks
+    profile (FK) - Profile
+    post (FK) - Post
+    is_bookmarked
+
+9. Review
+    profile (FK) - Profile
+    review_scale - (1-5)
+    service
+    text
+    location
+
+10. Notification
+    comment/post
+    new_follower
+
+11. Notes
+    profile (FK) - Profile
+    tags(FK) - Tag
+    text
+    duration
+    location
+    time
+
+12. Tag
+    Text
+
+12. DM
