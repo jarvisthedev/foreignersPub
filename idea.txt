@@ -1,14 +1,16 @@
 Foreigners pub is a social platform that aims to improve the social connection between foreigners sharing the same native country
 
-What problem im trying to solve, 
+Problem to be solved
 Loneliness when someone travels off country, They have no idea of the visited location, language, have no friends, unfamiliar foods, music
 
-Example, 4 random people from Germany or South Africa finding themselves in France, Canada or USA because of different reasons, say holiday, health, education, work, business trip. These people could easily connect among themselves than with people in their current residence.
+EXAMPLE
+/////
+4 random people from Germany or South Africa find themselves in France, Canada or USA for different reasons, say holiday, health, education, work, business trip. These people could easily connect among themselves than current residents.
 
 
 //////////////
-It's just a normal social media with a twist in adding tags, rating pictures and text
-Key way of making it social for foreingers(Where the concept lies)
+It's just a normal social platform with a twist in adding tags, rating pictures and text
+Key way of making it social for foreingers (Key concept)
 1. Tags (2-3 tags in a post)
 2. Pictures(must be available)
 3. Text(will be there)
