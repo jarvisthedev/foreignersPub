@@ -33,8 +33,8 @@ Models
     Email
     Profile pic
     Bio
-    Country_native
-    current_residence
+    country_native
+    country_residence
     tags(FK) - Tag
     followers_count (FK) - Follower
     following_count (FK) - Following
