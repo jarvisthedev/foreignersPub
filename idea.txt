@@ -110,8 +110,7 @@ Models
 
 7. Group
     group_info (FK) - Group_info
-    post (FK) - Post
-    Text
+    message(FK) - Message
     date_created
     date_updated
 
