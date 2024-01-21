@@ -161,3 +161,16 @@ Models
 
 
 12. DM
+    message(FK) - Message
+    subject
+
+
+14. Message
+    sender(FK) - Profile
+    receiver(FK) - Profile
+    Text
+    Picture
+    Video
+    Audio
+    date_created
+    date_updated
