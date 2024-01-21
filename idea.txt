@@ -163,6 +163,8 @@ Models
 12. DM
     message(FK) - Message
     subject
+    date_created
+    date_updated
 
 
 14. Message
