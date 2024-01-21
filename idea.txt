@@ -27,27 +27,43 @@ Key way of making it social for foreingers (Key concept)
 //////////////
 
 Models
-1. Profile
+
+1. User
     Name
     Username
     Email
+    password
+    date_created
+    date_updated
+
+
+2. Profile
+    user (FK) - User
     Profile pic
     Bio
     country_native
     country_residence
-    tags(FK) - Tag
-    followers_count (FK) - Follower
-    following_count (FK) - Following
+    date_created
+    date_updated
+    count_followers (FK) - Follower
+    count_following (FK) - Following
     groups (FK) - Group
+    tags(FK) - Tag
 
-2. Post
+
+3. Post
     profile (FK) - Profile
+    comment (FK) - comment  
+    like (FK) - Like
     Pictures
     Text
     Tags
-    like_count(FK) - Like
-    comment (FK) - comment
     Location
+    count_comment
+    count_like
+    date_created
+    date_updated  
+
 
 3. Comment
     profile (FK) - Profile
@@ -55,11 +71,16 @@ Models
     Text
     comments(FK) - Comment
     like_count(FK) - Like
+    date_created
+    date_updated    
 
 4. Like
     profile (FK) - Profile
-    Post(FK) / Comment(FK) - post/ comment
+    post(FK) - Post
+    comment(FK) - Comment
     is_liked
+    date_created
+    date_updated 
 
 5. Following
     profile (FK) - Profile
