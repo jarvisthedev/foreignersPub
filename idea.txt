@@ -27,27 +27,43 @@ Key way of making it social for foreingers (Key concept)
 //////////////
 
 Models
-1. Profile
+
+1. User
     Name
     Username
     Email
+    password
+    date_created
+    date_updated
+
+
+2. Profile
+    user (FK) - User
     Profile pic
     Bio
-    Country_native
-    current_residence
-    tags(FK) - Tag
-    followers_count (FK) - Follower
-    following_count (FK) - Following
+    country_native
+    country_residence
+    date_created
+    date_updated
+    count_followers (FK) - Follower
+    count_following (FK) - Following
     groups (FK) - Group
+    tags(FK) - Tag
 
-2. Post
+
+3. Post
     profile (FK) - Profile
+    comment (FK) - comment  
+    like (FK) - Like
     Pictures
     Text
     Tags
-    like_count(FK) - Like
-    comment (FK) - comment
-    Location
+    location
+    count_comment
+    count_like
+    date_created
+    date_updated  
+
 
 3. Comment
     profile (FK) - Profile
@@ -55,29 +71,59 @@ Models
     Text
     comments(FK) - Comment
     like_count(FK) - Like
+    date_created
+    date_updated    
+
 
 4. Like
     profile (FK) - Profile
-    Post(FK) / Comment(FK) - post/ comment
+    post(FK) - Post
+    comment(FK) - Comment
     is_liked
+    date_created
+    date_updated
+
 
 5. Following
     profile (FK) - Profile
+    date_created
+    date_updated
+
 
 6. Follower
     profile (FK) - Profile
+    date_created
+    date_updated
 
-7. Group
+
+7. Group_info
     created_by (FK) - Profile
     name
     group_icon
+    Bio
+    Members (FK) - Profile
+    count_members
+    date_created
+    date_updated
+
+
+
+7. Group
+    group_info (FK) - Group_info
     post (FK) - Post
     Text
+    date_created
+    date_updated
+
+
     
 8. Bookmarks
     profile (FK) - Profile
     post (FK) - Post
     is_bookmarked
+    date_created
+    date_updated
+
 
 9. Review
     profile (FK) - Profile
@@ -85,10 +131,17 @@ Models
     service
     text
     location
+    date_created
+    date_updated
+
+
 
 10. Notification
-    comment/post
-    new_follower
+    post(FK) - Post
+    comment(FK) - Comment
+    like(FK) - Like
+    new_follower(FK) - Profile
+
 
 11. Notes
     profile (FK) - Profile
@@ -97,8 +150,27 @@ Models
     duration
     location
     time
+    date_created
+    date_updated
+
 
 12. Tag
     Text
+    date_created
+    date_updated
+
 
 12. DM
+    message(FK) - Message
+    subject
+
+
+14. Message
+    sender(FK) - Profile
+    receiver(FK) - Profile
+    Text
+    Picture
+    Video
+    Audio
+    date_created
+    date_updated
