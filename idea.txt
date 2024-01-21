@@ -65,7 +65,7 @@ Models
     date_updated  
 
 
-3. Comment
+4. Comment
     profile (FK) - Profile
     image
     Text
@@ -75,7 +75,7 @@ Models
     date_updated    
 
 
-4. Like
+5. Like
     profile (FK) - Profile
     post(FK) - Post
     comment(FK) - Comment
@@ -84,19 +84,19 @@ Models
     date_updated
 
 
-5. Following
+6. Following
     profile (FK) - Profile
     date_created
     date_updated
 
 
-6. Follower
+7. Follower
     profile (FK) - Profile
     date_created
     date_updated
 
 
-7. Group_info
+8. Group_info
     created_by (FK) - Profile
     name
     group_icon
@@ -107,16 +107,14 @@ Models
     date_updated
 
 
-
-7. Group
+9. Group
     group_info (FK) - Group_info
     message(FK) - Message
     date_created
     date_updated
 
-
     
-8. Bookmarks
+10. Bookmarks
     profile (FK) - Profile
     post (FK) - Post
     is_bookmarked
@@ -124,7 +122,7 @@ Models
     date_updated
 
 
-9. Review
+11. Review
     profile (FK) - Profile
     review_scale - (1-5)
     service
@@ -134,15 +132,14 @@ Models
     date_updated
 
 
-
-10. Notification
+12. Notification
     post(FK) - Post
     comment(FK) - Comment
     like(FK) - Like
     new_follower(FK) - Profile
 
 
-11. Notes
+13. Notes
     profile (FK) - Profile
     tags(FK) - Tag
     text
@@ -153,20 +150,20 @@ Models
     date_updated
 
 
-12. Tag
+14. Tag
     Text
     date_created
     date_updated
 
 
-12. DM
+15. DM
     message(FK) - Message
     subject
     date_created
     date_updated
 
 
-14. Message
+16. Message
     sender(FK) - Profile
     receiver(FK) - Profile
     Text
